@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "lenovo-lf",
+    "children" : [ {
+      "name" : "14372-MainThread",
+      "children" : [ {
+        "name" : "test.Test.test_01",
+        "uid" : "3aa424b6ead32135",
+        "parentUid" : "397e599d678901400fe045c5391e9b7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1542875083289,
+          "stop" : 1542875083320,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "397e599d678901400fe045c5391e9b7d"
+    } ],
+    "uid" : "7601ab098fc03040681dfb026ca6d3cc"
+  } ]
+}

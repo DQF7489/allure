@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Scripts",
+    "children" : [ {
+      "name" : "test.Test.test_01",
+      "uid" : "3aa424b6ead32135",
+      "parentUid" : "ac537b8f55a60b2e2381ee5657079cea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542875083289,
+        "stop" : 1542875083320,
+        "duration" : 31
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ac537b8f55a60b2e2381ee5657079cea"
+  } ]
+}
